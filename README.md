@@ -1,3 +1,10 @@
+- cd openwrt && make menuconfig
+
+【[启动openwrt_x86_64编译](https://github.com/datout/build-openwrt/actions?query=workflow%3A%E7%BC%96%E8%AF%91OpenWrt%E5%9B%BA%E4%BB%B6)】
+
+【[启动Nanopi_r2s编译](https://github.com/datout/build-openwrt/actions?query=workflow%3A%E7%BC%96%E8%AF%91Lede_nanopi_r2s%E5%9B%BA%E4%BB%B6)】
+
+
 # Actions-OpenWrt
 
 #
