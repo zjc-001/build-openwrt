@@ -40,7 +40,7 @@ env:
   REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
   SCKEY: ${{ secrets.SCKEY }}
   TZ: Asia/Shanghai
-  GITHUB_RELEASE: https://github.com/tatout/build-openwrt/releases
+  GITHUB_RELEASE: https://github.com/datout/build-openwrt/releases
 
 jobs: 
   build:
