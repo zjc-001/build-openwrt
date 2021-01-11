@@ -163,7 +163,6 @@ user_rules:
 - '@@||wl.jd.com^$important'
 - '@@||flydigi.com^'
 - '@@||pv.sohu.com^$important'
-- '@@||tu.66vod.net^$important'
 - /googleads.$~script,domain=~googleads.github.io
 - /pagead/lvz?
 - '||google.com/pagead/'
