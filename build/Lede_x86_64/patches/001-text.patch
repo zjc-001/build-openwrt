@@ -6,7 +6,7 @@ index 0939306..446ade3 100644
  				set network.$1.proto='static'
  				set network.$1.ipaddr='$ipad'
  				set network.$1.netmask='$netm'
-+				set network.$1.gateway='10.10.10.253'
++				set network.$1.gateway='192.168.2.1'
 +				set network.$1.dns='116.228.111.118 180.168.255.18'
 +				set network.$1.broadcast=''
  			EOF
